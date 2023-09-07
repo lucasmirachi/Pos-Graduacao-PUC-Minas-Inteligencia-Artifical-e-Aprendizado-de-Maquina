@@ -1,5 +1,5 @@
 <center>![](https://www.pucminas.br/Style%20Library/VIRTUAL/img/logo-puc-virtual.png)</center>
-# Pos Graduacao PUC Minas Inteligencia Artifical e Aprendizado de Maquina
+# Pós Graduação PUC Minas - Inteligência Artifical e Aprendizado de Máquina
 
  Repositório contendo as anotações de aulas e atividades realizadas durante o curso de [Pós Graduação de Inteligência Artifical e Aprendizado de Máquina da PUC Minas](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Inteligencia-Artificial-e-Aprendizado-de-Maquina.aspx).
 
